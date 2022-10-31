@@ -8,7 +8,7 @@
 </html>
  👋 OI,eu sou o *@Joao*
 - 👀 Eu  sou interessado em *jogos*
-- 🌱 Atualmente eu estou  aprendendo a criar jogos
+- 🌱 Atualmente eu estou  aprendendo a criar jogos,apps e paginas na web
 - <!---
    1 TRIMESTRE
 *PONG NO SCRATCH
